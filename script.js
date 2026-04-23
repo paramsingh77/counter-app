@@ -1,8 +1,9 @@
 let count = 0;
 
 function increment() {
-    count++;
-    updateDisplay();
+    	count++;
+	count--;
+	updateDisplay();
 }
 
 function decrement() {
